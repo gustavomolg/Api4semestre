@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/status")
 def status():
-    return {"status": "API online"}
+    return {"status": API online}
 
 @app.route("/")
 def home():
