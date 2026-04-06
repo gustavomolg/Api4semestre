@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7d4f304-08ce-448d-b907-340466e9e6dd" name="Changes" comment="">
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/.name" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/app.py5995940648308061496.iml" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$USER_HOME$/AppData/Local/Temp/app.py5995940648308061496/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7d4f304-08ce-448d-b907-340466e9e6dd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
